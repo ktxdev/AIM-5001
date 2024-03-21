@@ -1,46 +1,44 @@
-{
-    "albums": [
-        {
-            "title": "And Then",
-            "artist": "Christopher Martin",
-            "year": 2019,
-            "tracks": [
-                "Life",
-                "Come Back",
-                "Bun Fi Bun",
-                "Can't Dweet Again",
-                "I'm About It",
-                "To Be With You",
-                "Happy You're Mine",
-                "Mirror Mirror",
-                "Don't tell"
-            ]
-        },
-        {
-            "title": "Mustard Seed",
-            "artist": "Nutty O",
-            "year": 2021,
-            "tracks": [
-                "Open Doors",
-                "Safe",
-                "Ndiwe",
-                "Peter Pan",
-                "Ready",
-                "Kungfu"
-            ]
-        },
-        {
-            "title": "Melody",
-            "artist": "Demarco",
-            "year": 2021,
-            "tracks": [
-                "My Way",
-                "Do It Again",
-                "For You",
-                "In My Heart",
-                "Stone Through Away",
-                "Stuck On You"
-            ]
-        }
-    ]
-}
+[
+    {
+        "title": "And Then",
+        "artist": "Christopher Martin",
+        "year": 2019,
+        "tracks": [
+            "Life",
+            "Come Back",
+            "Bun Fi Bun",
+            "Can't Dweet Again",
+            "I'm About It",
+            "To Be With You",
+            "Happy You're Mine",
+            "Mirror Mirror",
+            "Don't tell"
+        ]
+    },
+    {
+        "title": "Mustard Seed",
+        "artist": "Nutty O",
+        "year": 2021,
+        "tracks": [
+            "Open Doors",
+            "Safe",
+            "Ndiwe",
+            "Peter Pan",
+            "Ready",
+            "Kungfu"
+        ]
+    },
+    {
+        "title": "Melody",
+        "artist": "Demarco",
+        "year": 2021,
+        "tracks": [
+            "My Way",
+            "Do It Again",
+            "For You",
+            "In My Heart",
+            "Stone Through Away",
+            "Stuck On You"
+        ]
+    }
+]
